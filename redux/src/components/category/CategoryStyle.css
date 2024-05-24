@@ -1,0 +1,10 @@
+.category {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 5px;
+    border: 1px solid red;
+    background-color: bisque;
+    max-width: 300px;
+    width: 100%;
+}
